@@ -31,6 +31,7 @@ public class fibonacciTesting {
 //        @Test
 //        public void getDefaultFibonacciList() {
 
+    @Test
     @Then("^identify all the endpoint URLs and the datalimitations$")
     public void identify_all_the_endpoint_URLs_and_the_datalimitations() {
 
